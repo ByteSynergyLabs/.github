@@ -1,6 +1,6 @@
 # Welcome to ByteSynergyLabs
 
-<a href="https://ibb.co/gzcbw6S"><img src="https://i.ibb.co/gzcbw6S/Github-Cover.png" alt="Github-Cover" border="0"></a>
+<a href="https://ibb.co/gzcbw6S"><img src="https://i.ibb.co/gzcbw6S/Github-Cover.png" alt="Github-Cover" border="0" width="800" height="200"></a>
 
 Welcome to ByteSynergyLabs, where innovation meets collaboration! We're a community-driven organization passionate about harnessing technology to solve real-world challenges. Our mission is to create, share, and enhance open-source projects that push the boundaries of technology and make a positive impact on society.
 
